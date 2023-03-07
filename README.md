@@ -32,10 +32,14 @@ The [mode][mode] for a [Lévy][levy-distribution] random variable with location 
 
 <!-- <equation class="equation" label="eq:levy_expectation" align="center" raw="\operatorname{mode}\left( X \right) = \mu + \frac{c}{3}" alt="Mode for a Lévy distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\operatorname{mode}\left( X \right) = \mu + \frac{c}{3}" data-equation="eq:levy_expectation">
+```math
+\operatorname{mode}\left( X \right) = \mu + \frac{c}{3}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\operatorname{mode}\left( X \right) = \mu + \frac{c}{3}" data-equation="eq:levy_expectation">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/levy/mode/docs/img/equation_levy_expectation.svg" alt="Mode for a Lévy distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -216,7 +220,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
