@@ -67,7 +67,7 @@ The [mode][mode] for a [Lévy][levy-distribution] random variable with location 
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-mode@v0.2.2-deno/mod.js';
 ```
 
 #### mode( mu, c )
@@ -127,7 +127,7 @@ y = mode( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-mode@v0.2.2-deno/mod.js';
 
 var mu;
 var c;
