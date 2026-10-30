@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-17)
+## Unreleased (2026-10-30)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`729ec95`](https://github.com/stdlib-js/stdlib/commit/729ec95c344790e6282a38b84ae6c7cb846dde9d) - **refactor:** use `constants/float64/nan` in `stats/base/dists/levy/mode` [(#16381)](https://github.com/stdlib-js/stdlib/pull/16381) _(by Hardik Gupta)_
 -   [`f5da4b5`](https://github.com/stdlib-js/stdlib/commit/f5da4b52278b815b44fc1f258e66da1b83b4342f) - **test:** migrate `stats/base/dists/levy/mode` to ULP-based assertions [(#15014)](https://github.com/stdlib-js/stdlib/pull/15014) _(by Aryan kumar, Athan Reines)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`2cee50a`](https://github.com/stdlib-js/stdlib/commit/2cee50a75da1437551b91682b8785dbae8ab897f) - **docs:** update Markdown equation elements [(#13547)](https://github.com/stdlib-js/stdlib/pull/13547) _(by stdlib-bot, Athan Reines)_
@@ -30,10 +31,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aryan kumar
 -   Athan Reines
+-   Hardik Gupta
 -   Philipp Burckhardt
 -   Vishal Gaikwad
 
